@@ -1,0 +1,33 @@
+{
+  "name": "@dijipoRoot/mobligo-svg",
+  "version": "1.0.14",
+  "description": "Svg tsx repo for mobligo",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dijipoRoot/mobligo-svg"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "build": "tsc"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "author": "Berk Emre Uzun",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "typescript": "^5.4.2"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
