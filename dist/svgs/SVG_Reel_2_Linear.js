@@ -2,7 +2,7 @@ import React from 'react';
 const SVG_Reel_2_Linear = (props) => {
     const { className } = props;
     return (React.createElement("svg", { className: className, fill: "none", height: "24", viewBox: "0 0 24 24", width: "24", xmlns: "http://www.w3.org/2000/svg" },
-        React.createElement("circle", { cx: "12", cy: "12", r: "10", stroke: "black", "stroke-width": "1.5" }),
+        React.createElement("circle", { cx: "12", cy: "12", r: "10", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M12 22L22 22", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M12 9C13.6569 9 15 10.3431 15 12C15 13.6569 13.6569 15 12 15C10.3431 15 9 13.6569 9 12C9 10.3431 10.3431 9 12 9Z", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M19.5 12C19.5 12.5523 19.0523 13 18.5 13C17.9477 13 17.5 12.5523 17.5 12C17.5 11.4477 17.9477 11 18.5 11C19.0523 11 19.5 11.4477 19.5 12Z" }),

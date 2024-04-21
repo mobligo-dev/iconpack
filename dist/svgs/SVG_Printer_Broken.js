@@ -4,7 +4,7 @@ const SVG_Printer_Broken = (props) => {
     return (React.createElement("svg", { className: className, fill: "none", height: "24", viewBox: "0 0 24 24", width: "24", xmlns: "http://www.w3.org/2000/svg" },
         React.createElement("path", { d: "M9 10H6", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M19 14L5 14", "stroke-linecap": "round", "stroke-width": "1.5" }),
-        React.createElement("circle", { cx: "17", cy: "10", fill: "black", r: "1" }),
+        React.createElement("circle", { cx: "17", cy: "10", r: "1" }),
         React.createElement("path", { d: "M15 16.5H9", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M13 19H9", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M22 12C22 14.8284 22 16.2426 21.1213 17.1213C20.48 17.7626 19.5535 17.9359 18 17.9827M6 17.9827C4.44655 17.9359 3.51998 17.7626 2.87868 17.1213C2 16.2426 2 14.8284 2 12C2 9.17157 2 7.75736 2.87868 6.87868C3.75736 6 5.17157 6 8 6H16C18.8284 6 20.2426 6 21.1213 6.87868C21.4211 7.17848 21.6186 7.54062 21.7487 8", "stroke-linecap": "round", "stroke-width": "1.5" }),

@@ -9,7 +9,7 @@ const SVG_Virus_Broken = (props) => {
         React.createElement("path", { d: "M6 19.0498L7.05003 17.9998", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M12.5 13C12.5 14.1046 13.3954 15 14.5 15C15.6046 15 16.5 14.1046 16.5 13C16.5 11.8954 15.6046 11 14.5 11", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M11 9C11 9.55228 10.5523 10 10 10C9.44772 10 9 9.55228 9 9C9 8.44772 9.44772 8 10 8C10.5523 8 11 8.44772 11 9Z", "stroke-width": "1.5" }),
-        React.createElement("circle", { cx: "9", cy: "13", fill: "black", r: "1" }),
+        React.createElement("circle", { cx: "9", cy: "13", r: "1" }),
         React.createElement("path", { d: "M20.5607 5.56066C19.9749 6.14645 19.0251 6.14645 18.4393 5.56066C17.8536 4.97487 17.8536 4.02513 18.4393 3.43934C19.0251 2.85355 19.9749 2.85355 20.5607 3.43934", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M2 3.5C2 4.32843 2.67157 5 3.5 5C4.32843 5 5 4.32843 5 3.5C5 2.67157 4.32843 2 3.5 2", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M2 12C2 12.8284 2.67157 13.5 3.5 13.5C4.32843 13.5 5 12.8284 5 12C5 11.1716 4.32843 10.5 3.5 10.5C2.67157 10.5 2 11.1716 2 12Z", "stroke-width": "1.5" }),

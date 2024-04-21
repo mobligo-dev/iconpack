@@ -2,8 +2,8 @@ import React from 'react';
 const SVG_Cloud_Snowfall_Minimalistic_Linear = (props) => {
     const { className } = props;
     return (React.createElement("svg", { className: className, fill: "none", height: "24", viewBox: "0 0 24 24", width: "24", xmlns: "http://www.w3.org/2000/svg" },
-        React.createElement("circle", { cx: "12", cy: "18", fill: "black", r: "1" }),
-        React.createElement("circle", { cx: "12", cy: "21", fill: "black", r: "1" }),
+        React.createElement("circle", { cx: "12", cy: "18", r: "1" }),
+        React.createElement("circle", { cx: "12", cy: "21", r: "1" }),
         React.createElement("path", { d: "M16 19.5C16 20.0523 15.5523 20.5 15 20.5C14.4477 20.5 14 20.0523 14 19.5C14 18.9477 14.4477 18.5 15 18.5C15.5523 18.5 16 18.9477 16 19.5Z" }),
         React.createElement("path", { d: "M16 16.5C16 17.0523 15.5523 17.5 15 17.5C14.4477 17.5 14 17.0523 14 16.5C14 15.9477 14.4477 15.5 15 15.5C15.5523 15.5 16 15.9477 16 16.5Z" }),
         React.createElement("path", { d: "M10 19.5C10 20.0523 9.55228 20.5 9 20.5C8.44772 20.5 8 20.0523 8 19.5C8 18.9477 8.44772 18.5 9 18.5C9.55228 18.5 10 18.9477 10 19.5Z" }),

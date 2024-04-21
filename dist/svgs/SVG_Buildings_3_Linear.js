@@ -15,6 +15,6 @@ const SVG_Buildings_3_Linear = (props) => {
         React.createElement("path", { d: "M5.5 8H7", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M17 8H18.5", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M10 15H14", "stroke-linecap": "round", "stroke-width": "1.5" }),
-        React.createElement("circle", { cx: "12", cy: "7", r: "2", stroke: "#1C274C", "stroke-width": "1.5" })));
+        React.createElement("circle", { cx: "12", cy: "7", r: "2", "stroke-width": "1.5" })));
 };
 export default SVG_Buildings_3_Linear;

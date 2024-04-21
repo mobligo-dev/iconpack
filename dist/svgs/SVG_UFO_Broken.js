@@ -6,8 +6,8 @@ const SVG_UFO_Broken = (props) => {
         React.createElement("path", { d: "M12 16V19", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M5.50036 15.5L4.5 17.5", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M18.4996 15.5L19.5 17.5", "stroke-linecap": "round", "stroke-width": "1.5" }),
-        React.createElement("circle", { cx: "12", cy: "13", fill: "black", r: "1" }),
-        React.createElement("circle", { cx: "7", cy: "12", fill: "black", r: "1" }),
-        React.createElement("circle", { cx: "17", cy: "12", fill: "black", r: "1" })));
+        React.createElement("circle", { cx: "12", cy: "13", r: "1" }),
+        React.createElement("circle", { cx: "7", cy: "12", r: "1" }),
+        React.createElement("circle", { cx: "17", cy: "12", r: "1" })));
 };
 export default SVG_UFO_Broken;

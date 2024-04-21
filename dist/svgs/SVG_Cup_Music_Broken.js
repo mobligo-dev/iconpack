@@ -3,7 +3,7 @@ const SVG_Cup_Music_Broken = (props) => {
     const { className } = props;
     return (React.createElement("svg", { className: className, fill: "none", height: "24", viewBox: "0 0 24 24", width: "24", xmlns: "http://www.w3.org/2000/svg" },
         React.createElement("path", { d: "M13 10.5V7.5V5", "stroke-linecap": "round", "stroke-width": "1.5" }),
-        React.createElement("circle", { cx: "11.5", cy: "10.5", r: "1.5", stroke: "black", "stroke-width": "1.5" }),
+        React.createElement("circle", { cx: "11.5", cy: "10.5", r: "1.5", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M15 7C13.8954 7 13 6.10457 13 5", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M19 5L19.9486 5.31621C20.9387 5.64623 21.4337 5.81124 21.7168 6.20408C22 6.59692 22 7.11873 21.9999 8.16234L21.9999 8.23487C21.9999 9.09561 21.9999 9.52598 21.7927 9.87809C21.5855 10.2302 21.2093 10.4392 20.4569 10.8572L17.5 12.5", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M4.99994 5L4.05132 5.31621C3.06126 5.64623 2.56623 5.81124 2.2831 6.20408C1.99996 6.59692 1.99997 7.11873 2 8.16234L2 8.23487C2.00003 9.09561 2.00004 9.52598 2.20723 9.87809C2.41441 10.2302 2.79063 10.4392 3.54305 10.8572L6.49994 12.5", "stroke-width": "1.5" }),

@@ -2,7 +2,7 @@ import React from 'react';
 const SVG_Volume_Knob_Linear = (props) => {
     const { className } = props;
     return (React.createElement("svg", { className: className, fill: "none", height: "24", viewBox: "0 0 24 24", width: "24", xmlns: "http://www.w3.org/2000/svg" },
-        React.createElement("circle", { cx: "12", cy: "12", r: "5", stroke: "black", "stroke-width": "1.5" }),
+        React.createElement("circle", { cx: "12", cy: "12", r: "5", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M12 7V11", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M13 3.5C13 4.05228 12.5523 4.5 12 4.5C11.4477 4.5 11 4.05228 11 3.5C11 2.94772 11.4477 2.5 12 2.5C12.5523 2.5 13 2.94772 13 3.5Z" }),
         React.createElement("path", { d: "M20.5 13C19.9477 13 19.5 12.5523 19.5 12C19.5 11.4477 19.9477 11 20.5 11C21.0523 11 21.5 11.4477 21.5 12C21.5 12.5523 21.0523 13 20.5 13Z" }),

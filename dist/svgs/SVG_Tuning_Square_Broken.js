@@ -2,8 +2,8 @@ import React from 'react';
 const SVG_Tuning_Square_Broken = (props) => {
     const { className } = props;
     return (React.createElement("svg", { className: className, fill: "none", height: "24", viewBox: "0 0 24 24", width: "24", xmlns: "http://www.w3.org/2000/svg" },
-        React.createElement("circle", { cx: "8", cy: "10", r: "2", stroke: "black", "stroke-width": "1.5" }),
-        React.createElement("circle", { r: "2", stroke: "black", "stroke-width": "1.5", transform: "matrix(1 0 0 -1 16 14)" }),
+        React.createElement("circle", { cx: "8", cy: "10", r: "2", "stroke-width": "1.5" }),
+        React.createElement("circle", { r: "2", "stroke-width": "1.5", transform: "matrix(1 0 0 -1 16 14)" }),
         React.createElement("path", { d: "M8 14V19", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M16 10V5", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M8 5V6", "stroke-linecap": "round", "stroke-width": "1.5" }),

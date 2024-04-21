@@ -2,7 +2,7 @@ import React from 'react';
 const SVG_Donut_Broken = (props) => {
     const { className } = props;
     return (React.createElement("svg", { className: className, fill: "none", height: "24", viewBox: "0 0 24 24", width: "24", xmlns: "http://www.w3.org/2000/svg" },
-        React.createElement("circle", { cx: "12", cy: "12", r: "3", stroke: "black", "stroke-width": "1.5" }),
+        React.createElement("circle", { cx: "12", cy: "12", r: "3", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M2 13C2 13 4.20085 15 6 15C7.21199 15 8.60628 14.0924 9.38725 13.5", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M14 14.2236C14.4713 14.6389 15.0875 15 15.8053 15C17.4948 15 17.4948 13 19.1842 13C20.2618 13 21.1102 13.8136 21.5835 14.4029", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M14.5 7L16 5", "stroke-linecap": "round", "stroke-width": "1.5" }),

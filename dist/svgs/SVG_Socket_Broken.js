@@ -6,7 +6,7 @@ const SVG_Socket_Broken = (props) => {
         React.createElement("path", { d: "M6.58447 9.41299C6.87047 8.81431 7.2614 8.25323 7.75727 7.75736C10.1004 5.41421 13.8994 5.41421 16.2426 7.75736C18.5857 10.1005 18.5857 13.8995 16.2426 16.2426C13.8994 18.5858 10.1004 18.5858 7.75727 16.2426C7.2614 15.7468 6.87047 15.1857 6.58447 14.587", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M12 18.0001V16.5", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M12 7.5V6", "stroke-linecap": "round", "stroke-width": "1.5" }),
-        React.createElement("circle", { cx: "14", cy: "12", fill: "black", r: "1" }),
-        React.createElement("circle", { cx: "10", cy: "12", fill: "black", r: "1" })));
+        React.createElement("circle", { cx: "14", cy: "12", r: "1" }),
+        React.createElement("circle", { cx: "10", cy: "12", r: "1" })));
 };
 export default SVG_Socket_Broken;

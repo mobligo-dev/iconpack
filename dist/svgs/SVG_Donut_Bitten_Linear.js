@@ -2,7 +2,7 @@ import React from 'react';
 const SVG_Donut_Bitten_Linear = (props) => {
     const { className } = props;
     return (React.createElement("svg", { className: className, fill: "none", height: "24", viewBox: "0 0 24 24", width: "24", xmlns: "http://www.w3.org/2000/svg" },
-        React.createElement("circle", { cx: "12", cy: "12", r: "3", stroke: "black", "stroke-width": "1.5" }),
+        React.createElement("circle", { cx: "12", cy: "12", r: "3", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M14.5 7L16 5", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M19 7L20 6", "stroke-linecap": "round", "stroke-width": "1.5" }),
         React.createElement("path", { d: "M12 5L11 4", "stroke-linecap": "round", "stroke-width": "1.5" }),

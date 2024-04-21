@@ -8,6 +8,6 @@ const SVG_Smartphone_Update_Broken = (props) => {
             React.createElement("path", { d: "M15 19H9", "stroke-linecap": "round", "stroke-width": "1.5" })),
         React.createElement("defs", null,
             React.createElement("clipPath", { id: "clip0_1648_6343" },
-                React.createElement("rect", { fill: "white", height: "24", width: "24" })))));
+                React.createElement("rect", { height: "24", width: "24" })))));
 };
 export default SVG_Smartphone_Update_Broken;

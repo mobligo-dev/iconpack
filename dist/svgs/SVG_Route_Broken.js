@@ -7,6 +7,6 @@ const SVG_Route_Broken = (props) => {
             React.createElement("path", { d: "M16 11.5L13.3333 9M16 11.5L13.3333 14M16 11.5L10.6667 11.5C9.77778 11.5 8 12 8 14", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" })),
         React.createElement("defs", null,
             React.createElement("clipPath", { id: "clip0_1648_2867" },
-                React.createElement("rect", { fill: "white", height: "24", width: "24" })))));
+                React.createElement("rect", { height: "24", width: "24" })))));
 };
 export default SVG_Route_Broken;
