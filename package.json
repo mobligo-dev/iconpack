@@ -1,11 +1,11 @@
 {
-  "name": "@mobligo/iconpack",
+  "name": "@mobligo-dev/iconpack",
   "version": "1.0.3",
-  "description": "Svg tsx repo for mobligo",
+  "description": "Svg tsx repo for mobligo-dev",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mobligo/iconpack"
+    "url": "https://github.com/mobligo-dev/iconpack"
   },
   "files": [
     "dist"
